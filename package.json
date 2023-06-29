@@ -1,6 +1,6 @@
 {
   "name": "json-csv-nested",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert nested JSON to CSV.",
   "main": "index.js",
   "scripts": {
