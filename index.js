@@ -47,6 +47,4 @@ function convertJSONtoCSV(object){
 }
 
 
-convertJSONtoCSV(jsonObject);
-
 module.exports = convertJSONtoCSV;

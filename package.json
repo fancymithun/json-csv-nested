@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/fancymithun/json-csv-nested/issues"
   },
-  "homepage": "https://github.com/fancymithun/json-csv-nested#readme",
-  "dependencies": {
-    "jspdf": "^2.5.1"
-  }
+  "homepage": "https://github.com/fancymithun/json-csv-nested#readme"
 }
